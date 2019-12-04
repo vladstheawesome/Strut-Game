@@ -1,0 +1,4 @@
+
+On creating new Prefab Variants, use the WARRIOR character
+as that will be default when adding new items like events , animations, scripts etc
+(all other characters will in turn get updated with new updates)
